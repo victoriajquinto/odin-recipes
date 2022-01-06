@@ -1,2 +1,2 @@
 # odin-recipes
-Respository for Recipes Website
+Repository for Recipes Website

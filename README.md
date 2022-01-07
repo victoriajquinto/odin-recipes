@@ -9,4 +9,8 @@ I expect to learn how to build a basic webiste from start to finish. By the end 
 3. Write a recipe. 
 
 What I actually learned from this module: 
-1. If this is the only item in this list, I forgot to complete my reflection on this module. 
+1. I need to learn more about how to write commit messages. I don't feel like I have enough examples of basic commit messages. I hope to learn this skill by reading other people's commit messages. 
+2. I need to commit often. 
+3. Not making typos is important. 
+4. Properly typing paths for images and links are very important. I tend to forget to go up the path from a folder initialy. 
+5. I understand how to write a boilerplate and link webpages together.
